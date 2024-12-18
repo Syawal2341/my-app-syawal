@@ -24,9 +24,6 @@ export default function AdminMenu() {
                     <li className="mt-1">
                       <a className="btn-link" href="/admin/work">Work</a>
                     </li>
-                    <li className="mt-1">
-                      <a className="btn-link" href="/admin/message">Messages</a>
-                    </li>
                     <li>
                         <button  className="btn-primary" onClick={onLogOut}>
                             <span className="relative text-sm font-semibold text-white">
